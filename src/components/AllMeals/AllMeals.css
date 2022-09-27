@@ -1,0 +1,9 @@
+.all-meal img{
+    width: 300px;
+    height: 300px;
+}
+.all-meal{
+    border: 1px solid gray;
+    padding: 10px;
+    
+}

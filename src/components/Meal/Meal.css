@@ -1,0 +1,13 @@
+.meal{
+    display: grid;
+    grid-template-columns: 5fr 1fr;
+    gap: 5px;
+    margin: 20px;
+    padding: 30px;
+}
+.meals{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+    text-align: center;
+}
