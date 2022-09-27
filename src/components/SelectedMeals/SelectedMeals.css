@@ -1,3 +1,7 @@
 .selected-meal{
-    text-align: left;
+    text-align: center;
+    padding: 20px;
+}
+.selected-meal h4{
+    padding: 10px;
 }
