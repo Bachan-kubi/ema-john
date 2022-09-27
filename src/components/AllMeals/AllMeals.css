@@ -5,5 +5,8 @@
 .all-meal{
     border: 1px solid gray;
     padding: 10px;
-    
+}
+.btn-cart{
+    width: 100%;
+    background-color: coral;
 }
