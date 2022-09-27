@@ -10,10 +10,9 @@ const AllMeals = (props) => {
                 <h2>Meal Name: {strMeal}</h2>
                 <h3>Meal Category: {strCategory}</h3>
                 <h4>Meal Area: {strArea}</h4>
-            </div>
-            <div>
                 <button className='btn-cart'><p>Add to Cart</p></button>
             </div>
+
         </div>
     );
 };
