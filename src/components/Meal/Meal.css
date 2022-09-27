@@ -13,9 +13,11 @@
 }
 .order-container{
     background-color: coral;
-    text-align: center;
 }
 .order{
     position: sticky;
     top: 0;
+}
+.order h2{
+    text-align: center;
 }
