@@ -5,7 +5,9 @@
 .all-meal{
     border: 1px solid gray;
     padding: 10px;
+    height: 420px;
     position: relative;
+    border-radius: 10px;
 }
 .btn-cart{
     width: 100%;
